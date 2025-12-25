@@ -32,7 +32,7 @@ Developed a Python and C++ simulation suite for evaluating novel optical clockin
 methods. This framework reduced experimental iteration time by enabling rapid,
 high-fidelity numerical testing before hardware implementation.
 
-**Technologies:** Python, C++, Monte Carlo methods, Git
+**Technologies:** Python, C++, Monte Carlo methods, Git    
 **Repository** [Github Repo](https://github.com/zgotobed/SannerLab)
 
 ---
