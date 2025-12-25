@@ -10,8 +10,8 @@ I am a Physics PhD candidate at Colorado State University with a strong focus on
 
 My work spans precision measurement, optical systems, and trapped ion quantum computing,
 with hands-on experience building hardware, writing numerical simulations in Python and C++,
-and applying these techniques to real-world problems. I am particularly interested in roles **at a quantum computing company**, applying
-my skills and experiences to building the next-generation of quanutm machines.
+and applying these techniques to real-world problems. I am particularly interested in roles **at a quantum computing company**, So that I can
+apply my skills and experiences to help build the next generation of quantum machines
 
 ---
 
