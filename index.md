@@ -6,19 +6,19 @@ title: Home
 ## About
 
 I am a Physics PhD candidate at Colorado State University with a strong focus on
-**numerical simulation, experimental system design, and scientific software development**.
+**numerical simulation, optical engineering, and the development of state of the art lasers**.
 
-My work spans precision measurement, optical systems, and data-driven modeling,
-with hands-on experience building hardware, writing production-quality Python and C++,
-and analyzing noisy real-world data. I am particularly interested in roles that sit at the
-intersection of **physics, software, and engineering**.
+My work spans precision measurement, optical systems, and trapped ion quantum computing,
+with hands-on experience building hardware, writing numerical simulations in Python and C++,
+and applying these techniques to real-world problems. I am particularly interested in roles ** at a quantum computing company**, applying
+my skills and experiences to building the next-generation of quanutm machines.
 
 ---
 
 ## Technical Strengths
 
 - **Scientific Computing:** Python, C++, Monte Carlo simulations, numerical optimization  
-- **Data Analysis:** Maximum likelihood estimation, stochastic modeling, Fisher information  
+- **Data Analysis:** Maximum likelihood estimation, stochastic modeling, Fisher information techniques 
 - **Experimental Systems:** Optical engineering, lasers, cryogenic systems, FPGAs  
 - **Software Engineering:** Git, modular code design, testing, documentation  
 - **CAD & Fabrication:** FreeCAD, OpenSCAD, CNC machining, 3D printing  
@@ -40,7 +40,7 @@ high-fidelity numerical testing before hardware implementation.
 Contributed to an open-source library that converts Python code into fully
 parametrized optical layouts suitable for CAD and 3D printing.
 
-Used in real experimental systems to rapidly prototype and validate optical designs.
+Used in real experimental systems with demonstrated extremely high (99.9%) gate fidelity.
 
 **Technologies:** Python, FreeCAD, OpenSCAD, optical simulation  
 **Preprint:** [arXiv:2501.14957](https://arxiv.org/abs/2501.14957)
@@ -53,7 +53,7 @@ framework for running complex experimental sequences.
 
 Improved usability, reproducibility, and long-term maintainability of the system.
 
-**Technologies:** Python, ARTIQ, data visualization, nonlinear fitting
+**Technologies:** ARTIQ
 
 ---
 
@@ -80,4 +80,4 @@ Myers et al., including Zack Gotobed
 ## Contact
 
 If you’re interested in my work or would like to discuss potential opportunities,
-feel free to reach out via email or LinkedIn.
+feel free to reach out via email!
